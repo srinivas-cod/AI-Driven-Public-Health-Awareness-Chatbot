@@ -1,0 +1,1459 @@
+{
+  "diseases": {
+    "panic disorder": {
+      "occurrence": 909,
+      "symptoms": {
+        "anxiety and nervousness": 0.4961,
+        "shortness of breath": 0.4895,
+        "depressive or psychotic symptoms": 0.6821,
+        "chest tightness": 0.5083,
+        "palpitations": 0.4961,
+        "irregular heartbeat": 0.5006,
+        "breathing fast": 0.5149,
+        "dizziness": 0.5259,
+        "insomnia": 0.5171,
+        "depression": 0.4961,
+        "abnormal involuntary movements": 0.516
+      }
+    },
+    "vocal cord polyp": {
+      "occurrence": 90,
+      "symptoms": {
+        "difficulty speaking": 0.7667,
+        "throat swelling": 0.8111,
+        "throat feels tight": 0.7889,
+        "hoarse voice": 0.5,
+        "sore throat": 0.4889
+      }
+    },
+    "turner syndrome": {
+      "occurrence": 1,
+      "symptoms": {
+        "depression": 1,
+        "emotional symptoms": 1
+      }
+    },
+    "cryptorchidism": {
+      "occurrence": 5,
+      "symptoms": {
+        "lack of growth": 1,
+        "symptoms of the scrotum and testes": 0.8,
+        "swelling of scrotum": 0.8
+      }
+    },
+    "poisoning due to ethylene glycol": {
+      "occurrence": 24,
+      "symptoms": {
+        "depression": 1,
+        "depressive or psychotic symptoms": 0.875,
+        "abusing alcohol": 0.4167,
+        "fainting": 0.5417
+      }
+    },
+    "atrophic vaginitis": {
+      "occurrence": 329,
+      "symptoms": {
+        "suprapubic pain": 0.6809,
+        "vaginal itching": 0.7234,
+        "painful urination": 0.535,
+        "involuntary urination": 0.5106,
+        "frequent urination": 0.5228,
+        "vaginal discharge": 0.4863,
+        "blood in urine": 0.7781,
+        "pain during intercourse": 0.5441
+      }
+    },
+    "fracture of the hand": {
+      "occurrence": 111,
+      "symptoms": {
+        "arm pain": 0.5225,
+        "arm stiffness or tightness": 0.6216,
+        "hand or finger swelling": 0.5045,
+        "hand or finger stiffness or tightness": 0.4865,
+        "wrist stiffness or tightness": 0.5225,
+        "hand or finger pain": 0.5135,
+        "wrist pain": 0.5135,
+        "wrist swelling": 0.5856
+      }
+    },
+    "cellulitis or abscess of mouth": {
+      "occurrence": 138,
+      "symptoms": {
+        "sore throat": 0.6377,
+        "throat swelling": 0.8986,
+        "difficulty in swallowing": 0.471,
+        "abnormal appearing skin": 0.7826,
+        "skin growth": 0.5725,
+        "lip swelling": 0.6159,
+        "toothache": 0.5217
+      }
+    },
+    "eye alignment disorder": {
+      "occurrence": 453,
+      "symptoms": {
+        "lack of growth": 0.755,
+        "eye deviation": 0.5077,
+        "double vision": 0.543,
+        "cross-eyed": 0.5099,
+        "symptoms of eye": 0.532,
+        "pain in eye": 0.4768,
+        "irregular appearing scalp": 0.6932,
+        "diminished vision": 0.4724,
+        "eye moves abnormally": 0.532
+      }
+    },
+    "headache after lumbar puncture": {
+      "occurrence": 169,
+      "symptoms": {
+        "dizziness": 0.4734,
+        "nausea": 0.6923,
+        "neck pain": 0.497,
+        "headache": 0.5266,
+        "painful urination": 0.8284,
+        "vomiting": 0.497,
+        "low back pain": 0.497
+      }
+    },
+    "pyloric stenosis": {
+      "occurrence": 16,
+      "symptoms": {
+        "cough": 0.75,
+        "arm stiffness or tightness": 0.9375,
+        "vomiting": 0.6875
+      }
+    },
+    "salivary gland disorder": {
+      "occurrence": 62,
+      "symptoms": {
+        "sore throat": 0.7581,
+        "cough": 0.8387,
+        "throat feels tight": 0.7903,
+        "swollen lymph nodes": 0.7258
+      }
+    },
+    "osteochondrosis": {
+      "occurrence": 109,
+      "symptoms": {
+        "bowlegged or knock-kneed": 0.5596,
+        "ankle pain": 0.5321,
+        "elbow pain": 0.8716,
+        "knee pain": 0.5138,
+        "hand or finger pain": 0.7706,
+        "foot or toe pain": 0.4862
+      }
+    },
+    "injury to the knee": {
+      "occurrence": 53,
+      "symptoms": {
+        "knee pain": 0.566,
+        "knee weakness": 0.6792,
+        "foot or toe swelling": 0.717,
+        "leg pain": 0.6981,
+        "problems with movement": 0.3585
+      }
+    },
+    "metabolic disorder": {
+      "occurrence": 34,
+      "symptoms": {
+        "jaundice": 0.9706,
+        "arm stiffness or tightness": 0.8235,
+        "smoking problems": 0.4706,
+        "weight gain": 0.3529
+      }
+    },
+    "vaginitis": {
+      "occurrence": 909,
+      "symptoms": {
+        "suprapubic pain": 0.495,
+        "vaginal itching": 0.4884,
+        "painful urination": 0.5028,
+        "pain during intercourse": 0.67,
+        "pelvic pain": 0.5127,
+        "vaginal pain": 0.5413,
+        "lower abdominal pain": 0.5479,
+        "vaginal discharge": 0.5171,
+        "sharp abdominal pain": 0.5061,
+        "pain during pregnancy": 0.4983,
+        "vaginal redness": 0.5094
+      }
+    },
+    "sick sinus syndrome": {
+      "occurrence": 158,
+      "symptoms": {
+        "shortness of breath": 0.7405,
+        "irregular heartbeat": 0.5823,
+        "fainting": 0.5316,
+        "increased heart rate": 0.6646,
+        "dizziness": 0.538,
+        "palpitations": 0.5127,
+        "weakness": 0.4494,
+        "decreased heart rate": 0.4684
+      }
+    },
+    "tinnitus of unknown cause": {
+      "occurrence": 279,
+      "symptoms": {
+        "hoarse voice": 0.7814,
+        "headache": 0.509,
+        "ear pain": 0.4803,
+        "ringing in ear": 0.5376,
+        "itchy ear(s)": 0.6452,
+        "diminished hearing": 0.5305,
+        "dizziness": 0.5269,
+        "plugged feeling in ear": 0.5305
+      }
+    },
+    "glaucoma": {
+      "occurrence": 498,
+      "symptoms": {
+        "diminished vision": 0.5161,
+        "foreign body sensation in eye": 0.6707,
+        "spots or clouds in vision": 0.5321,
+        "eye redness": 0.5201,
+        "lacrimation": 0.5341,
+        "itchiness of eye": 0.6647,
+        "itchy eyelid": 0.6365,
+        "symptoms of eye": 0.5321,
+        "pain in eye": 0.508
+      }
+    },
+    "eating disorder": {
+      "occurrence": 494,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.5101,
+        "insomnia": 0.6883,
+        "abusing alcohol": 0.7065,
+        "decreased appetite": 0.502,
+        "anxiety and nervousness": 0.5162,
+        "depression": 0.5405,
+        "acne or pimples": 0.6761,
+        "weight gain": 0.4798,
+        "difficulty eating": 0.5283
+      }
+    },
+    "transient ischemic attack": {
+      "occurrence": 655,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.6443,
+        "headache": 0.5389,
+        "weakness": 0.4763,
+        "focal weakness": 0.6779,
+        "symptoms of the face": 0.5023,
+        "disturbance of memory": 0.4779,
+        "dizziness": 0.5359,
+        "difficulty speaking": 0.5145,
+        "loss of sensation": 0.5298,
+        "paresthesia": 0.4931
+      }
+    },
+    "pyelonephritis": {
+      "occurrence": 903,
+      "symptoms": {
+        "sharp abdominal pain": 0.6844,
+        "nausea": 0.515,
+        "frequent urination": 0.5183,
+        "low back pain": 0.5205,
+        "side pain": 0.5172,
+        "suprapubic pain": 0.4806,
+        "lower abdominal pain": 0.5083,
+        "back pain": 0.4684,
+        "vomiting": 0.4961,
+        "painful urination": 0.5061,
+        "blood in urine": 0.4961
+      }
+    },
+    "rotator cuff injury": {
+      "occurrence": 111,
+      "symptoms": {
+        "hand or finger stiffness or tightness": 0.8739,
+        "shoulder pain": 0.5225,
+        "arm stiffness or tightness": 0.7658,
+        "shoulder stiffness or tightness": 0.5045,
+        "shoulder weakness": 0.5135,
+        "arm pain": 0.5045
+      }
+    },
+    "chronic pain disorder": {
+      "occurrence": 677,
+      "symptoms": {
+        "hip pain": 0.4948,
+        "low back pain": 0.5362,
+        "pelvic pain": 0.6677,
+        "shoulder pain": 0.4801,
+        "leg pain": 0.6647,
+        "headache": 0.5022,
+        "knee pain": 0.5081,
+        "sharp abdominal pain": 0.4904,
+        "ache all over": 0.5332,
+        "back pain": 0.517
+      }
+    },
+    "problem during pregnancy": {
+      "occurrence": 913,
+      "symptoms": {
+        "sharp abdominal pain": 0.4863,
+        "vomiting": 0.5005,
+        "headache": 0.4907,
+        "nausea": 0.5115,
+        "lower abdominal pain": 0.5268,
+        "spotting or bleeding during pregnancy": 0.517,
+        "cramps and spasms": 0.4995,
+        "back pain": 0.5225,
+        "pain during pregnancy": 0.5137,
+        "pelvic pain": 0.6648,
+        "problems during pregnancy": 0.5257
+      }
+    },
+    "liver cancer": {
+      "occurrence": 49,
+      "symptoms": {
+        "groin mass": 0.9388,
+        "sharp abdominal pain": 0.5714,
+        "upper abdominal pain": 0.4898,
+        "decreased appetite": 0.6531,
+        "stomach bloating": 0.5714
+      }
+    },
+    "atelectasis": {
+      "occurrence": 99,
+      "symptoms": {
+        "dizziness": 0.8283,
+        "sore throat": 0.7071,
+        "cough": 0.6162,
+        "headache": 0.8586,
+        "shortness of breath": 0.6263,
+        "sharp chest pain": 0.596
+      }
+    },
+    "injury to the hand": {
+      "occurrence": 126,
+      "symptoms": {
+        "wrist swelling": 0.8889,
+        "hand or finger stiffness or tightness": 0.5159,
+        "skin growth": 0.4762,
+        "joint pain": 0.5714,
+        "hand or finger pain": 0.5794,
+        "wrist pain": 0.5476,
+        "hand or finger swelling": 0.5873
+      }
+    },
+    "choledocholithiasis": {
+      "occurrence": 441,
+      "symptoms": {
+        "sharp chest pain": 0.4989,
+        "sharp abdominal pain": 0.5397,
+        "nausea": 0.4966,
+        "upper abdominal pain": 0.4739,
+        "chills": 0.5193,
+        "decreased appetite": 0.6803,
+        "side pain": 0.5329,
+        "jaundice": 0.78,
+        "vomiting": 0.5215
+      }
+    },
+    "injury to the hip": {
+      "occurrence": 16,
+      "symptoms": {
+        "leg pain": 0.5,
+        "hand or finger swelling": 0.9375,
+        "neck pain": 0.75,
+        "hip pain": 0.4375
+      }
+    },
+    "cirrhosis": {
+      "occurrence": 331,
+      "symptoms": {
+        "blood in stool": 0.7069,
+        "vomiting blood": 0.7674,
+        "regurgitation": 0.5166,
+        "upper abdominal pain": 0.6949,
+        "regurgitation.1": 0.5166,
+        "abdominal distention": 0.5529,
+        "sharp abdominal pain": 0.4985,
+        "shortness of breath": 0.5468,
+        "peripheral edema": 0.5468
+      }
+    },
+    "thoracic aortic aneurysm": {
+      "occurrence": 168,
+      "symptoms": {
+        "sharp chest pain": 0.5238,
+        "dizziness": 0.4702,
+        "jaundice": 0.8393,
+        "shortness of breath": 0.625,
+        "sharp abdominal pain": 0.5238,
+        "fatigue": 0.5179,
+        "chest tightness": 0.4821
+      }
+    },
+    "subdural hemorrhage": {
+      "occurrence": 139,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.6115,
+        "dizziness": 0.7338,
+        "irritable infant": 0.7842,
+        "vomiting": 0.7266,
+        "facial pain": 0.6835,
+        "headache": 0.518
+      }
+    },
+    "diabetic retinopathy": {
+      "occurrence": 456,
+      "symptoms": {
+        "symptoms of eye": 0.5044,
+        "pain in eye": 0.4781,
+        "abnormal movement of eyelid": 0.7478,
+        "foreign body sensation in eye": 0.7061,
+        "itchiness of eye": 0.5044,
+        "diminished vision": 0.5022,
+        "double vision": 0.511,
+        "spots or clouds in vision": 0.4956,
+        "lacrimation": 0.4934
+      }
+    },
+    "fibromyalgia": {
+      "occurrence": 656,
+      "symptoms": {
+        "hip pain": 0.6707,
+        "headache": 0.5046,
+        "arm pain": 0.5122,
+        "low back pain": 0.7149,
+        "muscle pain": 0.5091,
+        "ache all over": 0.5015,
+        "sharp chest pain": 0.497,
+        "neck pain": 0.5076,
+        "back pain": 0.4848,
+        "leg pain": 0.5137
+      }
+    },
+    "ischemia of the bowel": {
+      "occurrence": 283,
+      "symptoms": {
+        "retention of urine": 0.6714,
+        "blood in stool": 0.6926,
+        "nausea": 0.6996,
+        "burning abdominal pain": 0.6714,
+        "sharp abdominal pain": 0.5194,
+        "constipation": 0.4912,
+        "vomiting": 0.6396
+      }
+    },
+    "fetal alcohol syndrome": {
+      "occurrence": 7,
+      "symptoms": {
+        "depressive or psychotic symptoms": 1,
+        "emotional symptoms": 0.8571,
+        "excessive anger": 0.7143
+      }
+    },
+    "peritonitis": {
+      "occurrence": 381,
+      "symptoms": {
+        "groin mass": 0.5249,
+        "vomiting": 0.5144,
+        "nausea": 0.4751,
+        "back pain": 0.6955,
+        "side pain": 0.685,
+        "shortness of breath": 0.6745,
+        "sharp abdominal pain": 0.4987,
+        "intermenstrual bleeding": 0.6483
+      }
+    },
+    "injury to the abdomen": {
+      "occurrence": 64,
+      "symptoms": {
+        "sharp chest pain": 0.5625,
+        "leg pain": 0.9531,
+        "sharp abdominal pain": 0.5938,
+        "back pain": 0.8906,
+        "blood in urine": 0.7344
+      }
+    },
+    "acute pancreatitis": {
+      "occurrence": 1207,
+      "symptoms": {
+        "vomiting": 0.5145,
+        "diarrhea": 0.5062,
+        "side pain": 0.493,
+        "hemoptysis": 0.5087,
+        "sharp chest pain": 0.4905,
+        "abusing alcohol": 0.5087,
+        "sharp abdominal pain": 0.4979,
+        "burning abdominal pain": 0.5253,
+        "nausea": 0.5153,
+        "back pain": 0.5004,
+        "lower body pain": 0.4954,
+        "upper abdominal pain": 0.5046
+      }
+    },
+    "thrombophlebitis": {
+      "occurrence": 451,
+      "symptoms": {
+        "skin swelling": 0.7517,
+        "leg pain": 0.5078,
+        "arm pain": 0.5432,
+        "ache all over": 0.51,
+        "foot or toe pain": 0.5188,
+        "leg swelling": 0.4922,
+        "arm swelling": 0.6475,
+        "skin on leg or foot looks infected": 0.5033,
+        "lymphedema": 0.51
+      }
+    },
+    "asthma": {
+      "occurrence": 904,
+      "symptoms": {
+        "sharp chest pain": 0.5066,
+        "wheezing": 0.5221,
+        "fever": 0.5111,
+        "coughing up sputum": 0.6681,
+        "coryza": 0.5066,
+        "allergic reaction": 0.5265,
+        "shortness of breath": 0.4845,
+        "chest tightness": 0.4845,
+        "difficulty breathing": 0.5144,
+        "cough": 0.5199,
+        "nasal congestion": 0.5321
+      }
+    },
+    "foreign body in the vagina": {
+      "occurrence": 21,
+      "symptoms": {
+        "emotional symptoms": 0.9048,
+        "painful urination": 0.8571,
+        "vaginal discharge": 0.4762
+      }
+    },
+    "restless leg syndrome": {
+      "occurrence": 283,
+      "symptoms": {
+        "depression": 0.4982,
+        "abnormal involuntary movements": 0.5124,
+        "leg pain": 0.4982,
+        "fatigue": 0.6714,
+        "sleepiness": 0.5018,
+        "apnea": 0.4806,
+        "insomnia": 0.8057,
+        "headache": 0.5336
+      }
+    },
+    "emphysema": {
+      "occurrence": 31,
+      "symptoms": {
+        "shortness of breath": 0.9677,
+        "cough": 0.9677,
+        "emotional symptoms": 0.8065,
+        "sharp chest pain": 0.4516
+      }
+    },
+    "cysticercosis": {
+      "occurrence": 36,
+      "symptoms": {
+        "shortness of breath": 0.8333,
+        "elbow weakness": 0.8333,
+        "headache": 0.5,
+        "seizures": 0.5278
+      }
+    },
+    "induced abortion": {
+      "occurrence": 287,
+      "symptoms": {
+        "sharp abdominal pain": 0.5505,
+        "lower abdominal pain": 0.4913,
+        "intermenstrual bleeding": 0.7875,
+        "spotting or bleeding during pregnancy": 0.5296,
+        "cramps and spasms": 0.4983,
+        "groin pain": 0.7735,
+        "pain during pregnancy": 0.5505,
+        "vaginal discharge": 0.4983
+      }
+    },
+    "teething syndrome": {
+      "occurrence": 438,
+      "symptoms": {
+        "cough": 0.7831,
+        "nasal congestion": 0.5023,
+        "diarrhea": 0.5183,
+        "symptoms of infants": 0.5411,
+        "decreased appetite": 0.5023,
+        "fever": 0.516,
+        "redness in ear": 0.5274,
+        "ear pain": 0.6347,
+        "temper problems": 0.4863
+      }
+    },
+    "infectious gastroenteritis": {
+      "occurrence": 1212,
+      "symptoms": {
+        "blood in stool": 0.4785,
+        "sharp abdominal pain": 0.5,
+        "vomiting": 0.5041,
+        "nausea": 0.5231,
+        "diarrhea": 0.5132,
+        "burning abdominal pain": 0.5008,
+        "decreased appetite": 0.5206,
+        "fever": 0.5008,
+        "chills": 0.505,
+        "fluid retention": 0.4975,
+        "flu-like syndrome": 0.4835,
+        "headache": 0.5091
+      }
+    },
+    "acute sinusitis": {
+      "occurrence": 906,
+      "symptoms": {
+        "sore throat": 0.6578,
+        "ear pain": 0.5298,
+        "frontal headache": 0.5232,
+        "fever": 0.4956,
+        "coryza": 0.5386,
+        "sinus congestion": 0.5309,
+        "nasal congestion": 0.4901,
+        "coughing up sputum": 0.5022,
+        "painful sinuses": 0.4746,
+        "cough": 0.5099,
+        "facial pain": 0.5088
+      }
+    },
+    "substance-related mental disorder": {
+      "occurrence": 213,
+      "symptoms": {
+        "anxiety and nervousness": 0.6808,
+        "insomnia": 0.6854,
+        "hostile behavior": 0.7981,
+        "feeling ill": 0.5352,
+        "delusions or hallucinations": 0.507,
+        "drug abuse": 0.5023,
+        "depressive or psychotic symptoms": 0.5352
+      }
+    },
+    "postpartum depression": {
+      "occurrence": 494,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.5081,
+        "drug abuse": 0.6802,
+        "pain during pregnancy": 0.5324,
+        "problems during pregnancy": 0.6781,
+        "anxiety and nervousness": 0.5121,
+        "depression": 0.5425,
+        "intermenstrual bleeding": 0.5081,
+        "excessive anger": 0.4899,
+        "delusions or hallucinations": 0.666
+      }
+    },
+    "coronary atherosclerosis": {
+      "occurrence": 112,
+      "symptoms": {
+        "palpitations": 0.5446,
+        "irregular heartbeat": 0.7589,
+        "burning chest pain": 0.5357,
+        "chest tightness": 0.4643,
+        "shortness of breath": 0.4911,
+        "sharp chest pain": 0.5,
+        "fatigue": 0.5,
+        "leg cramps or spasms": 0.4911
+      }
+    },
+    "spondylitis": {
+      "occurrence": 451,
+      "symptoms": {
+        "leg pain": 0.5011,
+        "hip pain": 0.4989,
+        "low back pain": 0.5277,
+        "side pain": 0.6585,
+        "lower body pain": 0.5033,
+        "or spasms\"": 0.5078,
+        "back pain": 0.51,
+        "stiffness all over": 0.7384,
+        "neck pain": 0.4812
+      }
+    },
+    "pituitary adenoma": {
+      "occurrence": 29,
+      "symptoms": {
+        "nausea": 0.8966,
+        "pain in eye": 0.8966,
+        "muscle swelling": 0.5172,
+        "headache": 0.5517
+      }
+    },
+    "uterine fibroids": {
+      "occurrence": 450,
+      "symptoms": {
+        "sharp abdominal pain": 0.4933,
+        "involuntary urination": 0.7711,
+        "lower abdominal pain": 0.5044,
+        "nosebleed": 0.4933,
+        "long menstrual periods": 0.5289,
+        "heavy menstrual flow": 0.5333,
+        "pelvic pain": 0.4956,
+        "cramps and spasms": 0.5267,
+        "intermenstrual bleeding": 0.6733
+      }
+    },
+    "idiopathic nonmenstrual bleeding": {
+      "occurrence": 98,
+      "symptoms": {
+        "sharp abdominal pain": 0.8776,
+        "painful urination": 0.9184,
+        "back mass or lump": 0.6735,
+        "vaginal discharge": 0.7449,
+        "long menstrual periods": 0.5612,
+        "intermenstrual bleeding": 0.6224
+      }
+    },
+    "chalazion": {
+      "occurrence": 678,
+      "symptoms": {
+        "skin growth": 0.4764,
+        "diminished vision": 0.677,
+        "symptoms of eye": 0.5,
+        "pain in eye": 0.5044,
+        "lacrimation": 0.5206,
+        "sweating": 0.5133,
+        "mass on eyelid": 0.6799,
+        "foreign body sensation in eye": 0.5147,
+        "frequent menstruation": 0.5236,
+        "eye redness": 0.5059
+      }
+    },
+    "ovarian torsion": {
+      "occurrence": 67,
+      "symptoms": {
+        "skin swelling": 0.9403,
+        "sharp abdominal pain": 0.5672,
+        "lower abdominal pain": 0.5672,
+        "ache all over": 0.4925,
+        "pelvic pain": 0.5224,
+        "groin mass": 0.5522
+      }
+    },
+    "retinopathy due to high blood pressure": {
+      "occurrence": 138,
+      "symptoms": {
+        "pus draining from ear": 0.8478,
+        "diminished vision": 0.558,
+        "symptoms of eye": 0.5507,
+        "foreign body sensation in eye": 0.7101,
+        "pain in eye": 0.6304,
+        "spots or clouds in vision": 0.5
+      }
+    },
+    "vaginal yeast infection": {
+      "occurrence": 608,
+      "symptoms": {
+        "suprapubic pain": 0.7237,
+        "sharp abdominal pain": 0.4556,
+        "vaginal itching": 0.5115,
+        "painful urination": 0.4836,
+        "lower abdominal pain": 0.5049,
+        "vaginal pain": 0.5099,
+        "symptoms of bladder": 0.523,
+        "vulvar irritation": 0.5016,
+        "vaginal redness": 0.4737,
+        "vaginal discharge": 0.4836
+      }
+    },
+    "mastoiditis": {
+      "occurrence": 144,
+      "symptoms": {
+        "nasal congestion": 0.7778,
+        "diminished hearing": 0.7917,
+        "dizziness": 0.5556,
+        "facial pain": 0.4722,
+        "cough": 0.75,
+        "ear pain": 0.5208
+      }
+    },
+    "lung contusion": {
+      "occurrence": 15,
+      "symptoms": {
+        "shortness of breath": 1,
+        "sharp chest pain": 0.8,
+        "ache all over": 0.7333,
+        "back pain": 0.6
+      }
+    },
+    "hypertrophic obstructive cardiomyopathy (hocm)": {
+      "occurrence": 6,
+      "symptoms": {
+        "anxiety and nervousness": 1,
+        "sharp chest pain": 0.6667,
+        "emotional symptoms": 0.6667
+      }
+    },
+    "ingrown toe nail": {
+      "occurrence": 604,
+      "symptoms": {
+        "abnormal appearing skin": 0.4851,
+        "skin growth": 0.4834,
+        "neck swelling": 0.7566,
+        "foot or toe pain": 0.4818,
+        "foot or toe swelling": 0.5116,
+        "hurts to breath": 0.4868,
+        "nailbiting": 0.4801,
+        "skin on leg or foot looks infected": 0.505,
+        "unwanted hair": 0.5232,
+        "sweating": 0.5116
+      }
+    },
+    "pulmonary eosinophilia": {
+      "occurrence": 185,
+      "symptoms": {
+        "sharp chest pain": 0.5135,
+        "nasal congestion": 0.5189,
+        "paresthesia": 0.8162,
+        "dizziness": 0.7568,
+        "cough": 0.5568,
+        "fever": 0.5027,
+        "shortness of breath": 0.4973
+      }
+    },
+    "corneal disorder": {
+      "occurrence": 676,
+      "symptoms": {
+        "diminished vision": 0.5207,
+        "foreign body sensation in eye": 0.5192,
+        "spots or clouds in vision": 0.5414,
+        "lacrimation": 0.4941,
+        "white discharge from eye": 0.6376,
+        "double vision": 0.676,
+        "eye redness": 0.4882,
+        "pain in eye": 0.5104,
+        "itchiness of eye": 0.5281,
+        "symptoms of eye": 0.4778
+      }
+    },
+    "foreign body in the gastrointestinal tract": {
+      "occurrence": 127,
+      "symptoms": {
+        "lump in throat": 0.7795,
+        "difficulty in swallowing": 0.5591,
+        "recent weight loss": 0.8189,
+        "sharp abdominal pain": 0.4567,
+        "vomiting": 0.5197,
+        "vomiting blood": 0.6378
+      }
+    },
+    "endophthalmitis": {
+      "occurrence": 61,
+      "symptoms": {
+        "painful urination": 0.8852,
+        "diminished vision": 0.623,
+        "pain in eye": 0.5738,
+        "sweating": 0.5246,
+        "eye redness": 0.5574,
+        "itchiness of eye": 0.4262
+      }
+    },
+    "intestinal malabsorption": {
+      "occurrence": 161,
+      "symptoms": {
+        "cough": 0.8447,
+        "sharp abdominal pain": 0.5031,
+        "vomiting": 0.5776,
+        "allergic reaction": 0.5093,
+        "nasal congestion": 0.5342,
+        "flatulence": 0.8385,
+        "diarrhea": 0.5652
+      }
+    },
+    "viral warts": {
+      "occurrence": 453,
+      "symptoms": {
+        "skin swelling": 0.6821,
+        "lip swelling": 0.7461,
+        "abnormal appearing skin": 0.4879,
+        "skin growth": 0.5055,
+        "skin moles": 0.4857,
+        "skin irritation": 0.5166,
+        "skin lesion": 0.5121,
+        "itchy scalp": 0.468,
+        "acne or pimples": 0.4746
+      }
+    },
+    "hyperhidrosis": {
+      "occurrence": 24,
+      "symptoms": {
+        "cough": 1,
+        "fever": 0.625,
+        "skin irritation": 0.75,
+        "infertility": 0.5,
+        "acne or pimples": 0.4583
+      }
+    },
+    "stroke": {
+      "occurrence": 642,
+      "symptoms": {
+        "abnormal involuntary movements": 0.5109,
+        "difficulty speaking": 0.5016,
+        "headache": 0.743,
+        "problems with movement": 0.6947,
+        "focal weakness": 0.528,
+        "slurring words": 0.5202,
+        "depressive or psychotic symptoms": 0.4969,
+        "dizziness": 0.5234,
+        "seizures": 0.5109,
+        "disturbance of memory": 0.4984
+      }
+    },
+    "pilonidal cyst": {
+      "occurrence": 339,
+      "symptoms": {
+        "skin growth": 0.5398,
+        "pelvic pain": 0.7552,
+        "bones are painful": 0.6814,
+        "skin swelling": 0.5221,
+        "pain of the anus": 0.5074,
+        "lower body pain": 0.5015,
+        "irregular appearing scalp": 0.708,
+        "ache all over": 0.5074
+      }
+    },
+    "crushing injury": {
+      "occurrence": 63,
+      "symptoms": {
+        "hand or finger pain": 0.5238,
+        "hand or finger swelling": 0.7143,
+        "neck swelling": 0.7619,
+        "foot or toe pain": 0.5714,
+        "knee swelling": 0.6349,
+        "hand or finger stiffness or tightness": 0.5714
+      }
+    },
+    "normal pressure hydrocephalus": {
+      "occurrence": 26,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.8846,
+        "palpitations": 1,
+        "headache": 0.4615,
+        "problems with movement": 0.6923
+      }
+    },
+    "alopecia": {
+      "occurrence": 340,
+      "symptoms": {
+        "feeling ill": 0.5059,
+        "acne or pimples": 0.6882,
+        "irregular appearing scalp": 0.5265,
+        "symptoms of bladder": 0.7235,
+        "hip swelling": 0.4735,
+        "skin swelling": 0.7206,
+        "skin growth": 0.5059,
+        "foot or toe cramps or spasms": 0.5265
+      }
+    },
+    "hashimoto thyroiditis": {
+      "occurrence": 2,
+      "symptoms": {
+        "abnormal involuntary movements": 1,
+        "weight gain": 1
+      }
+    },
+    "flat feet": {
+      "occurrence": 33,
+      "symptoms": {
+        "skin swelling": 0.9697,
+        "knee pain": 0.6061,
+        "ankle pain": 0.6667,
+        "problems with movement": 0.8182,
+        "foot or toe pain": 0.7273
+      }
+    },
+    "nonalcoholic liver disease (nash)": {
+      "occurrence": 62,
+      "symptoms": {
+        "dizziness": 0.7258,
+        "sharp abdominal pain": 0.8387,
+        "nausea": 0.5484,
+        "mouth ulcer": 0.871,
+        "weight gain": 0.4355
+      }
+    },
+    "hemarthrosis": {
+      "occurrence": 9,
+      "symptoms": {
+        "frequent urination": 1,
+        "knee pain": 0.7778,
+        "elbow weakness": 0.7778,
+        "knee swelling": 0.3333
+      }
+    },
+    "pelvic organ prolapse": {
+      "occurrence": 438,
+      "symptoms": {
+        "suprapubic pain": 0.5205,
+        "blood in urine": 0.7466,
+        "intermenstrual bleeding": 0.6324,
+        "vaginal pain": 0.516,
+        "eyelid lesion or rash": 0.5023,
+        "retention of urine": 0.4977,
+        "frequent urination": 0.5274,
+        "vaginal discharge": 0.4795,
+        "involuntary urination": 0.5342
+      }
+    },
+    "fracture of the arm": {
+      "occurrence": 437,
+      "symptoms": {
+        "arm stiffness or tightness": 0.4874,
+        "wrist stiffness or tightness": 0.4508,
+        "elbow pain": 0.5309,
+        "wrist pain": 0.4966,
+        "arm pain": 0.54,
+        "arm swelling": 0.5011,
+        "shoulder pain": 0.5126,
+        "premenstrual tension or irritability": 0.5195,
+        "shoulder stiffness or tightness": 0.6888,
+        "wrist swelling": 0.5561
+      }
+    },
+    "coagulation (bleeding) disorder": {
+      "occurrence": 90,
+      "symptoms": {
+        "blood in urine": 0.8,
+        "knee swelling": 0.7111,
+        "melena": 0.7333,
+        "leg pain": 0.5,
+        "eye redness": 0.4778
+      }
+    },
+    "intracranial hemorrhage": {
+      "occurrence": 322,
+      "symptoms": {
+        "dizziness": 0.5217,
+        "abnormal involuntary movements": 0.7112,
+        "difficulty speaking": 0.528,
+        "vomiting": 0.7081,
+        "diminished vision": 0.4752,
+        "seizures": 0.5093,
+        "depressive or psychotic symptoms": 0.7857,
+        "headache": 0.5714
+      }
+    },
+    "hyperkalemia": {
+      "occurrence": 657,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.6865,
+        "difficulty in swallowing": 0.484,
+        "feeling ill": 0.5282,
+        "vomiting": 0.5008,
+        "nausea": 0.5205,
+        "decreased heart rate": 0.6986,
+        "shortness of breath": 0.5068,
+        "weakness": 0.5342,
+        "dizziness": 0.5221,
+        "sharp chest pain": 0.5068
+      }
+    },
+    "cornea infection": {
+      "occurrence": 903,
+      "symptoms": {
+        "diminished vision": 0.5216,
+        "symptoms of eye": 0.5017,
+        "pain in eye": 0.5172,
+        "spots or clouds in vision": 0.5437,
+        "eye redness": 0.5083,
+        "lacrimation": 0.5061,
+        "eye burns or stings": 0.5094,
+        "itchiness of eye": 0.4994,
+        "lip swelling": 0.6523,
+        "foreign body sensation in eye": 0.5028,
+        "sweating": 0.4773
+      }
+    },
+    "abscess of the lung": {
+      "occurrence": 19,
+      "symptoms": {
+        "depressive or psychotic symptoms": 1,
+        "itchy eyelid": 0.7895,
+        "shortness of breath": 0.8947,
+        "cough": 0.4211
+      }
+    },
+    "dengue fever": {
+      "occurrence": 3,
+      "symptoms": {
+        "sore throat": 1,
+        "wrist pain": 1
+      }
+    },
+    "chronic sinusitis": {
+      "occurrence": 657,
+      "symptoms": {
+        "cough": 0.6971,
+        "facial pain": 0.4962,
+        "ear pain": 0.6636,
+        "fever": 0.4947,
+        "sinus congestion": 0.5084,
+        "sore throat": 0.5068,
+        "congestion in chest": 0.5205,
+        "frontal headache": 0.5114,
+        "headache": 0.5236,
+        "painful sinuses": 0.5236
+      }
+    },
+    "cholesteatoma": {
+      "occurrence": 31,
+      "symptoms": {
+        "nasal congestion": 1,
+        "diminished hearing": 0.9355,
+        "pus draining from ear": 0.7742,
+        "muscle swelling": 0.5161
+      }
+    },
+    "volvulus": {
+      "occurrence": 11,
+      "symptoms": {
+        "depressive or psychotic symptoms": 1,
+        "elbow weakness": 0.6364,
+        "vomiting": 0.8182,
+        "sharp abdominal pain": 0.6364
+      }
+    },
+    "injury to the finger": {
+      "occurrence": 7,
+      "symptoms": {
+        "swelling of scrotum": 0.8571,
+        "hand or finger swelling": 0.5714,
+        "hand or finger pain": 0.5714,
+        "hand or finger stiffness or tightness": 0.2857
+      }
+    },
+    "poisoning due to analgesics": {
+      "occurrence": 66,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.5455,
+        "skin swelling": 0.8788,
+        "problems during pregnancy": 0.4848,
+        "depression": 0.6061,
+        "vomiting": 0.5455,
+        "abusing alcohol": 0.5606
+      }
+    },
+    "atrial fibrillation": {
+      "occurrence": 68,
+      "symptoms": {
+        "shortness of breath": 0.5882,
+        "sharp chest pain": 0.5441,
+        "palpitations": 0.6471,
+        "decreased heart rate": 0.5294,
+        "increased heart rate": 0.6029,
+        "fatigue": 0.5294,
+        "dizziness": 0.6176,
+        "irregular heartbeat": 0.4853
+      }
+    },
+    "pinworm infection": {
+      "occurrence": 87,
+      "symptoms": {
+        "painful urination": 0.5517,
+        "pain of the anus": 0.5747,
+        "constipation": 0.8506,
+        "mass on ear": 0.6207,
+        "retention of urine": 0.8391,
+        "sharp abdominal pain": 0.5402
+      }
+    },
+    "urethral valves": {
+      "occurrence": 35,
+      "symptoms": {
+        "suprapubic pain": 0.9714,
+        "sharp abdominal pain": 0.6286,
+        "lower abdominal pain": 0.6571,
+        "elbow weakness": 0.7714,
+        "side pain": 0.6571
+      }
+    },
+    "open wound of the neck": {
+      "occurrence": 32,
+      "symptoms": {
+        "skin swelling": 0.9375,
+        "skin lesion": 0.625,
+        "peripheral edema": 0.5938,
+        "ache all over": 0.6563,
+        "abnormal appearing skin": 0.5313
+      }
+    },
+    "achalasia": {
+      "occurrence": 84,
+      "symptoms": {
+        "chest tightness": 0.8452,
+        "cough": 0.7738,
+        "throat feels tight": 0.6786,
+        "difficulty in swallowing": 0.5238,
+        "sharp chest pain": 0.5
+      }
+    },
+    "conductive hearing loss": {
+      "occurrence": 598,
+      "symptoms": {
+        "dizziness": 0.4599,
+        "hoarse voice": 0.7324,
+        "difficulty speaking": 0.5134,
+        "diminished hearing": 0.5134,
+        "ringing in ear": 0.49,
+        "fluid in ear": 0.4883,
+        "plugged feeling in ear": 0.5318,
+        "redness in ear": 0.5033,
+        "elbow stiffness or tightness": 0.5201,
+        "ear pain": 0.5318
+      }
+    },
+    "abdominal hernia": {
+      "occurrence": 407,
+      "symptoms": {
+        "groin mass": 0.5283,
+        "symptoms of the scrotum and testes": 0.7518,
+        "lower abdominal pain": 0.715,
+        "regurgitation": 0.5184,
+        "swollen abdomen": 0.5356,
+        "regurgitation.1": 0.5184,
+        "hand or finger weakness": 0.5676,
+        "ache all over": 0.5381,
+        "sharp abdominal pain": 0.5921,
+        "upper abdominal pain": 0.5602
+      }
+    },
+    "cerebral palsy": {
+      "occurrence": 139,
+      "symptoms": {
+        "lack of growth": 0.7338,
+        "problems with movement": 0.5108,
+        "infant feeding problem": 0.8058,
+        "blindness": 0.7482,
+        "cramps and spasms": 0.5324,
+        "seizures": 0.5108
+      }
+    },
+    "marijuana abuse": {
+      "occurrence": 507,
+      "symptoms": {
+        "depressive or psychotic symptoms": 0.4714,
+        "hostile behavior": 0.5404,
+        "drug abuse": 0.5247,
+        "excessive anger": 0.5464,
+        "delusions or hallucinations": 0.4911,
+        "temper problems": 0.4832,
+        "fears and phobias": 0.5227,
+        "difficulty speaking": 0.5108,
+        "anxiety and nervousness": 0.4517,
+        "depression": 0.5089,
+        "abusing alcohol": 0.5128,
+        "elbow stiffness or tightness": 0.5207
+      }
+    }
+  },
+  "allSymptoms": [
+    "abdominal distention",
+    "abnormal appearing skin",
+    "abnormal involuntary movements",
+    "abnormal movement of eyelid",
+    "abusing alcohol",
+    "ache all over",
+    "acne or pimples",
+    "allergic reaction",
+    "ankle pain",
+    "anxiety and nervousness",
+    "apnea",
+    "arm pain",
+    "arm stiffness or tightness",
+    "arm swelling",
+    "back mass or lump",
+    "back pain",
+    "blindness",
+    "blood in stool",
+    "blood in urine",
+    "bones are painful",
+    "bowlegged or knock-kneed",
+    "breathing fast",
+    "burning abdominal pain",
+    "burning chest pain",
+    "chest tightness",
+    "chills",
+    "congestion in chest",
+    "constipation",
+    "coryza",
+    "cough",
+    "coughing up sputum",
+    "cramps and spasms",
+    "cross-eyed",
+    "decreased appetite",
+    "decreased heart rate",
+    "delusions or hallucinations",
+    "depression",
+    "depressive or psychotic symptoms",
+    "diarrhea",
+    "difficulty breathing",
+    "difficulty eating",
+    "difficulty in swallowing",
+    "difficulty speaking",
+    "diminished hearing",
+    "diminished vision",
+    "disturbance of memory",
+    "dizziness",
+    "double vision",
+    "drug abuse",
+    "ear pain",
+    "elbow pain",
+    "elbow stiffness or tightness",
+    "elbow weakness",
+    "emotional symptoms",
+    "excessive anger",
+    "eye burns or stings",
+    "eye deviation",
+    "eye moves abnormally",
+    "eye redness",
+    "eyelid lesion or rash",
+    "facial pain",
+    "fainting",
+    "fatigue",
+    "fears and phobias",
+    "feeling ill",
+    "fever",
+    "flatulence",
+    "flu-like syndrome",
+    "fluid in ear",
+    "fluid retention",
+    "focal weakness",
+    "foot or toe cramps or spasms",
+    "foot or toe pain",
+    "foot or toe swelling",
+    "foreign body sensation in eye",
+    "frequent menstruation",
+    "frequent urination",
+    "frontal headache",
+    "groin mass",
+    "groin pain",
+    "hand or finger pain",
+    "hand or finger stiffness or tightness",
+    "hand or finger swelling",
+    "hand or finger weakness",
+    "headache",
+    "heavy menstrual flow",
+    "hemoptysis",
+    "hip pain",
+    "hip swelling",
+    "hoarse voice",
+    "hostile behavior",
+    "hurts to breath",
+    "increased heart rate",
+    "infant feeding problem",
+    "infertility",
+    "insomnia",
+    "intermenstrual bleeding",
+    "involuntary urination",
+    "irregular appearing scalp",
+    "irregular heartbeat",
+    "irritable infant",
+    "itchiness of eye",
+    "itchy ear(s)",
+    "itchy eyelid",
+    "itchy scalp",
+    "jaundice",
+    "joint pain",
+    "knee pain",
+    "knee swelling",
+    "knee weakness",
+    "lack of growth",
+    "lacrimation",
+    "leg cramps or spasms",
+    "leg pain",
+    "leg swelling",
+    "lip swelling",
+    "long menstrual periods",
+    "loss of sensation",
+    "low back pain",
+    "lower abdominal pain",
+    "lower body pain",
+    "lump in throat",
+    "lymphedema",
+    "mass on ear",
+    "mass on eyelid",
+    "melena",
+    "mouth ulcer",
+    "muscle pain",
+    "muscle swelling",
+    "nailbiting",
+    "nasal congestion",
+    "nausea",
+    "neck pain",
+    "neck swelling",
+    "nosebleed",
+    "or spasms\"",
+    "pain during intercourse",
+    "pain during pregnancy",
+    "pain in eye",
+    "pain of the anus",
+    "painful sinuses",
+    "painful urination",
+    "palpitations",
+    "paresthesia",
+    "pelvic pain",
+    "peripheral edema",
+    "plugged feeling in ear",
+    "premenstrual tension or irritability",
+    "problems during pregnancy",
+    "problems with movement",
+    "pus draining from ear",
+    "recent weight loss",
+    "redness in ear",
+    "regurgitation",
+    "regurgitation.1",
+    "retention of urine",
+    "ringing in ear",
+    "seizures",
+    "sharp abdominal pain",
+    "sharp chest pain",
+    "shortness of breath",
+    "shoulder pain",
+    "shoulder stiffness or tightness",
+    "shoulder weakness",
+    "side pain",
+    "sinus congestion",
+    "skin growth",
+    "skin irritation",
+    "skin lesion",
+    "skin moles",
+    "skin on leg or foot looks infected",
+    "skin swelling",
+    "sleepiness",
+    "slurring words",
+    "smoking problems",
+    "sore throat",
+    "spots or clouds in vision",
+    "spotting or bleeding during pregnancy",
+    "stiffness all over",
+    "stomach bloating",
+    "suprapubic pain",
+    "sweating",
+    "swelling of scrotum",
+    "swollen abdomen",
+    "swollen lymph nodes",
+    "symptoms of bladder",
+    "symptoms of eye",
+    "symptoms of infants",
+    "symptoms of the face",
+    "symptoms of the scrotum and testes",
+    "temper problems",
+    "throat feels tight",
+    "throat swelling",
+    "toothache",
+    "unwanted hair",
+    "upper abdominal pain",
+    "vaginal discharge",
+    "vaginal itching",
+    "vaginal pain",
+    "vaginal redness",
+    "vomiting",
+    "vomiting blood",
+    "vulvar irritation",
+    "weakness",
+    "weight gain",
+    "wheezing",
+    "white discharge from eye",
+    "wrist pain",
+    "wrist stiffness or tightness",
+    "wrist swelling"
+  ]
+}
